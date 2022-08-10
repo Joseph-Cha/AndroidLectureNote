@@ -1,4 +1,4 @@
-package com.donghun.myfirstfile
+package com.donghun.bts_lecture
 
 import org.junit.Test
 

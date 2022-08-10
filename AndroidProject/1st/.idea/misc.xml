@@ -3,7 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Work/Personal/Android/app/src/main/res/layout/activity_main.xml" value="0.1757852077001013" />
+        <entry key="..\:/Work/Personal/Android/MakeAnroidAppByKotlin/AndroidProject/2nd/app/src/main/res/layout/activity_bts1.xml" value="0.33967391304347827" />
+        <entry key="..\:/Work/Personal/Android/MakeAnroidAppByKotlin/AndroidProject/2nd/app/src/main/res/layout/activity_bts2.xml" value="0.33967391304347827" />
+        <entry key="..\:/Work/Personal/Android/MakeAnroidAppByKotlin/AndroidProject/2nd/app/src/main/res/layout/activity_bts3.xml" value="0.33967391304347827" />
+        <entry key="..\:/Work/Personal/Android/MakeAnroidAppByKotlin/AndroidProject/2nd/app/src/main/res/layout/activity_bts4.xml" value="0.33967391304347827" />
+        <entry key="..\:/Work/Personal/Android/MakeAnroidAppByKotlin/AndroidProject/2nd/app/src/main/res/layout/activity_bts5.xml" value="0.33967391304347827" />
+        <entry key="..\:/Work/Personal/Android/MakeAnroidAppByKotlin/AndroidProject/2nd/app/src/main/res/layout/activity_bts6.xml" value="0.33967391304347827" />
+        <entry key="..\:/Work/Personal/Android/MakeAnroidAppByKotlin/AndroidProject/2nd/app/src/main/res/layout/activity_bts7.xml" value="0.33967391304347827" />
+        <entry key="..\:/Work/Personal/Android/MakeAnroidAppByKotlin/AndroidProject/2nd/app/src/main/res/layout/activity_main.xml" value="0.33967391304347827" />
       </map>
     </option>
   </component>
@@ -12,8 +19,5 @@
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />
-  </component>
-  <component name="SuppressKotlinCodeStyleNotification">
-    <option name="disableForAll" value="true" />
   </component>
 </project>
