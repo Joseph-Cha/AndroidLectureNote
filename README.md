@@ -4,3 +4,8 @@
 ## 1. BTS 앱 만들기
 ### 개요
 ImageView를 활용해서 7명의 BTS 멤버 사진을 볼 수 있는 앱을 만들어보자.
+
+### 레이아웃 종류별 설명(Linear Layout, Relative Layout, Constraint Layout)
+**Linear Layout**
+* View가 추가 될 때 바로 다음 위치에서 추가가 된다.
+* 즉 빈공간을 채워 넣는 방식으로 추가 된다.
