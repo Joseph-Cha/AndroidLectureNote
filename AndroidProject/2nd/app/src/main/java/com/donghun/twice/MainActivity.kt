@@ -10,8 +10,8 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        var btn2 = findViewById<ImageView>(R.id.member1);
-        var btn1 = findViewById<ImageView>(R.id.member2);
+        var btn1 = findViewById<ImageView>(R.id.member1);
+        var btn2 = findViewById<ImageView>(R.id.member2);
         var btn3 = findViewById<ImageView>(R.id.member3);
         var btn4 = findViewById<ImageView>(R.id.member4);
         var btn5 = findViewById<ImageView>(R.id.member5);
