@@ -15,7 +15,7 @@ class ThirdFragment : Fragment() {
     }
 
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?, savedInstanceState: Bundle?): View? {
-        val view = inflater.inflate(R.layout.fragment_second, container, false)
+        val view = inflater.inflate(R.layout.fragment_third, container, false)
         view.findViewById<Button>(R.id.btn1).setOnClickListener {
             it.findNavController().navigate(R.id.action_thirdFragment_to_firstFragment)
         }
@@ -24,6 +24,6 @@ class ThirdFragment : Fragment() {
             it.findNavController().navigate(R.id.action_thirdFragment_to_secondFragment)
 
         }
-        return inflater.inflate(R.layout.fragment_second, container, false)
+        return view
     }
 }
