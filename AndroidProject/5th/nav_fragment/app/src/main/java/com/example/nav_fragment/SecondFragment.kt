@@ -27,6 +27,6 @@ class SecondFragment : Fragment() {
             it.findNavController().navigate(R.id.action_secondFragment_to_thirdFragment)
 
         }
-        return inflater.inflate(R.layout.fragment_second, container, false)
+        return view
     }
 }
