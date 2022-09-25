@@ -22,9 +22,24 @@ class MainActivity : AppCompatActivity() {
         )
         items.add(
             ContentsModel(
-                "https://www.mangoplate.com/restaurants/XensLeCfhL",
-                "https://mp-seoul-image-production-s3.mangoplate.com/917760_1615112831109239.jpg?fit=around|512:512&crop=512:512;*,*&output-format=jpg&output-quality=80",
-                "온고재"
+                "https://www.mangoplate.com/restaurants/Wk1SMvyiB_",
+                "https://mp-seoul-image-production-s3.mangoplate.com/91343/nxnuds1vcu9fir.jpg?fit=around|512:512&crop=512:512;*,*&output-format=jpg&output-quality=80",
+                "털보집"
+            )
+        )
+        items.add(
+            ContentsModel(
+                "https://www.mangoplate.com/restaurants/e7LCOR4AEI",
+                "https://mp-seoul-image-production-s3.mangoplate.com/91347/1089220_1632119459985_8423?fit=around|512:512&crop=512:512;*,*&output-format=jpg&output-quality=80",
+                "동동국수집"
+            )
+        )
+
+        items.add(
+            ContentsModel(
+                "https://www.mangoplate.com/restaurants/mUnkEkd8uSFn",
+                "https://mp-seoul-image-production-s3.mangoplate.com/268500/9239_1596889592139_33884?fit=around|512:512&crop=512:512;*,*&output-format=jpg&output-quality=80",
+                "젤라띠젤라띠"
             )
         )
         items.add(
@@ -34,7 +49,28 @@ class MainActivity : AppCompatActivity() {
                 "온고재"
             )
         )
+        items.add(
+            ContentsModel(
+                "https://www.mangoplate.com/restaurants/Wk1SMvyiB_",
+                "https://mp-seoul-image-production-s3.mangoplate.com/91343/nxnuds1vcu9fir.jpg?fit=around|512:512&crop=512:512;*,*&output-format=jpg&output-quality=80",
+                "털보집"
+            )
+        )
+        items.add(
+            ContentsModel(
+                "https://www.mangoplate.com/restaurants/e7LCOR4AEI",
+                "https://mp-seoul-image-production-s3.mangoplate.com/91347/1089220_1632119459985_8423?fit=around|512:512&crop=512:512;*,*&output-format=jpg&output-quality=80",
+                "동동국수집"
+            )
+        )
 
+        items.add(
+            ContentsModel(
+                "https://www.mangoplate.com/restaurants/mUnkEkd8uSFn",
+                "https://mp-seoul-image-production-s3.mangoplate.com/268500/9239_1596889592139_33884?fit=around|512:512&crop=512:512;*,*&output-format=jpg&output-quality=80",
+                "젤라띠젤라띠"
+            )
+        )
         val recyclerView = findViewById<RecyclerView>(R.id.rv)
         val rvAdapter = RVAdapter(baseContext, items)
         recyclerView.adapter = rvAdapter
