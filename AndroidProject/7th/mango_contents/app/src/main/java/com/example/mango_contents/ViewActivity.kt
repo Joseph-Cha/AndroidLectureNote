@@ -23,7 +23,7 @@ class ViewActivity : AppCompatActivity() {
 
         // Write a message to the database
         val database = Firebase.database
-        val myBookmarkRef = database.getReference("message")
+        val myBookmarkRef = database.getReference("bookmark_ref")
 
         val url = intent.getStringExtra("url")
         val title = intent.getStringExtra("title")
