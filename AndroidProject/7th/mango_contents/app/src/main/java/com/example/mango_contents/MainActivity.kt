@@ -4,6 +4,8 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
+import android.widget.Button
+import android.widget.TextView
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
@@ -14,6 +16,12 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
+
+        val bookmarkBtn = findViewById<TextView>(R.id.bookmarkBtn)
+        bookmarkBtn.setOnClickListener {
+            val intent = Intent(this, BookmarkActivity::class.java)
+            startActivity(intent)
+        }
 
         items.add(
             ContentsModel(
@@ -74,7 +82,7 @@ class MainActivity : AppCompatActivity() {
             )
         )
         val recyclerView = findViewById<RecyclerView>(R.id.rv)
-        val rvAdapter = RVAdapter(baseContext, items)
+        val rvAdapter = RVAdapter(this, items)
         recyclerView.adapter = rvAdapter
 
         rvAdapter.itemClick = object : RVAdapter.ItemClick {
@@ -85,7 +93,6 @@ class MainActivity : AppCompatActivity() {
                 intent.putExtra("imageUrl", items[position].ImageUrl)
                 startActivity(intent)
             }
-
         }
 
         recyclerView.layoutManager = GridLayoutManager(this, 2)
