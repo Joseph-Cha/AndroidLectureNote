@@ -10,4 +10,4 @@
 https://github.com/changja88/FastCampus_2021
 
 ### 2.2 강의 노트
-* 
+1. [변수](FastCampus/my_repository/FastCampus/Kotlin/01. 변수/노트.md)
