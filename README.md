@@ -10,5 +10,19 @@
 https://github.com/changja88/FastCampus_2021
 
 ### 2.2 강의 노트
-1. [변수](FastCampus/my_repository/FastCampus/Kotlin/01. 변수/노트.md)
-2. [자료형]
+**Part 2. 앱 개발을 위한 필수 코틀린**
+* 01. 변수
+    * [이론 정리](./FastCampus/my_repository/FastCampus/Kotlin/01.%20변수/노트.md)
+    * [실습 정리](./FastCampus/my_repository/FastCampus/Kotlin/01.%20변수/실습.kts)
+* 02. 자료형
+    * [이론 정리](./FastCampus/my_repository/FastCampus/Kotlin/02.%20자료형/이론.md)
+    * [실습 정리](./FastCampus/my_repository/FastCampus/Kotlin/02.%20자료형/실습.kts)
+* 03. Null
+    * [이론 정리](./FastCampus/my_repository/FastCampus/Kotlin/03.%20Null/이론.md)
+    * [실습 정리](./FastCampus/my_repository/FastCampus/Kotlin/03.%20Null/실습.kts)
+* 04. 연산자
+    * [이론 정리](./FastCampus/my_repository/FastCampus/Kotlin/04.%20연산자/이론.md)
+    * [실습 정리](./FastCampus/my_repository/FastCampus/Kotlin/04.%20연산자/실습.kts)
+* 05. 메소드
+    * [이론 정리](./FastCampus/my_repository/FastCampus/Kotlin/05.%20메소드/이론.md)
+    * [실습 정리](./FastCampus/my_repository/FastCampus/Kotlin/05.%20메소드/실습.kts)
