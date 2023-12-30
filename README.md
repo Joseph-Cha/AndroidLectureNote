@@ -6,7 +6,7 @@
 ## 2. 패스트 캠퍼스
 [[신버전] Android 앱 개발의 정석 with Kotlin 올인원 패키지 Online.](https://fastcampus.co.kr/dev_online_androidstandard)
 
-### 2.1 강의 자료 깃헙 링크
+### 2.1 강의 자료 링크
 https://github.com/changja88/FastCampus_2021
 
 ### 2.2 강의 노트
