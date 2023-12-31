@@ -26,3 +26,6 @@ https://github.com/changja88/FastCampus_2021
 * 05. 메소드
     * [이론 정리](./FastCampus/my_repository/FastCampus/Kotlin/05.%20메소드/이론.md)
     * [실습 정리](./FastCampus/my_repository/FastCampus/Kotlin/05.%20메소드/실습.kts)
+* 06. 흐름제어
+    * [이론 정리](./FastCampus/my_repository/FastCampus/Kotlin/06.%20흐름%20제어/이론.md)
+    * [실습 정리](./FastCampus/my_repository/FastCampus/Kotlin/06.%20흐름%20제어/실습.kts)
