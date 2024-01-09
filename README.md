@@ -29,3 +29,24 @@ https://github.com/changja88/FastCampus_2021
 * 06. 흐름제어
     * [이론 정리](./FastCampus/my_repository/FastCampus/Kotlin/06.%20흐름%20제어/이론.md)
     * [실습 정리](./FastCampus/my_repository/FastCampus/Kotlin/06.%20흐름%20제어/실습.kts)
+* 07. 과제
+    * [과제](./FastCampus/my_repository/FastCampus/Kotlin/07.%20과제(1)/과제.md)
+    * [과제](./FastCampus/my_repository/FastCampus/Kotlin/07.%20과제(1)/과제.kts)
+* 08. 배열
+    * [이론 정리](./FastCampus/my_repository/FastCampus/Kotlin/08.%20배열/이론.md)
+    * [실습 정리](./FastCampus/my_repository/FastCampus/Kotlin/08.%20배열/실습.kts)
+* 09. Collection
+    * [이론 정리](./FastCampus/my_repository/FastCampus/Kotlin/09.%20Collection/이론.md)
+    * [실습 정리](./FastCampus/my_repository/FastCampus/Kotlin/09.%20Collection/실습.kts)
+* 10. Iterable
+    * [이론 정리](./FastCampus/my_repository/FastCampus/Kotlin/10.%20Iterable/이론.md)
+    * [실습 정리](./FastCampus/my_repository/FastCampus/Kotlin/10.%20Iterable/실습.kts)
+* 11. 반복문
+    * [이론(for) 정리](<FastCampus/my_repository/FastCampus/Kotlin/11.%20반복문/이론(for).md>)
+    * [실습(for) 정리](<FastCampus/my_repository/FastCampus/Kotlin/11.%20반복문/실습(for).kts>)
+    * [이론(while) 정리](<FastCampus/my_repository/FastCampus/Kotlin/11.%20반복문/이론(while).md>)
+    * [실습(while) 정리](<FastCampus/my_repository/FastCampus/Kotlin/11.%20반복문/실습(while).kts>)
+    * [이론(keyword) 정리](<FastCampus/my_repository/FastCampus/Kotlin/11.%20반복문/이론(keyword).md>)
+    * [실습(keyword)_1 정리](<FastCampus/my_repository/FastCampus/Kotlin/11.%20반복문/실습(keyword_1).kts>)
+    * [실습(keyword)_2 정리](<FastCampus/my_repository/FastCampus/Kotlin/11.%20반복문/실습(keyword_2).kts>)
+    
