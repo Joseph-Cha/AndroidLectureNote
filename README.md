@@ -49,4 +49,6 @@ https://github.com/changja88/FastCampus_2021
     * [이론(keyword) 정리](<FastCampus/my_repository/FastCampus/Kotlin/11.%20반복문/이론(keyword).md>)
     * [실습(keyword)_1 정리](<FastCampus/my_repository/FastCampus/Kotlin/11.%20반복문/실습(keyword_1).kts>)
     * [실습(keyword)_2 정리](<FastCampus/my_repository/FastCampus/Kotlin/11.%20반복문/실습(keyword_2).kts>)
-    
+* 12. 과제(2)
+    * [과제](./FastCampus/my_repository/FastCampus/Kotlin/12.%20과제(반복문)/과제.md)
+    * [풀이](./FastCampus/my_repository/FastCampus/Kotlin/12.%20과제(반복문)/풀이.kts)
