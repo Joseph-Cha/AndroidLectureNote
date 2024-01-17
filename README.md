@@ -52,3 +52,6 @@ https://github.com/changja88/FastCampus_2021
 * 12. 과제(2)
     * [과제](./FastCampus/my_repository/FastCampus/Kotlin/12.%20과제(반복문)/과제.md)
     * [풀이](./FastCampus/my_repository/FastCampus/Kotlin/12.%20과제(반복문)/풀이.kts)
+* 13. 예외처리
+    * [이론](./FastCampus/my_repository/FastCampus/Kotlin/13.%20예외처리/이론.md)
+    * [이론](./FastCampus/my_repository/FastCampus/Kotlin/12.%20예외처리/실습.kts)
