@@ -61,3 +61,9 @@ https://github.com/changja88/FastCampus_2021
 * 15. 고차함수 & 람다
     * [이론](./FastCampus/my_repository/FastCampus/Kotlin/15.%20고차함수%20&%20람다/이론.md)
     * [실습](./FastCampus/my_repository/FastCampus/Kotlin/15.%20고차함수%20&%20람다/실습.kts)
+* 16. 클래스
+    * [이론(기초)](./FastCampus/my_repository/FastCampus/Kotlin/16.%20클래스/이론(기초).md)
+    * [이론(생성자)](./FastCampus/my_repository/FastCampus/Kotlin/16.%20클래스/이론(생성자).md)
+    * [이론(속성)](./FastCampus/my_repository/FastCampus/Kotlin/16.%20클래스/이론(속성).md)
+    * [실습(생성자)](./FastCampus/my_repository/FastCampus/Kotlin/16.%20클래스/실습(생성자).kts)
+    * [실습(속성)](./FastCampus/my_repository/FastCampus/Kotlin/16.%20클래스/실습(속성).kts)
